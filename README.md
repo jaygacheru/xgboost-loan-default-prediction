@@ -7,6 +7,8 @@ This project predicts the probability of loan default using machine learning and
 - Streamlit UI
 - Production-ready ML pipeline
 
+ 
+Tools used:
 - Python
 - Pandas
 - NumPy
